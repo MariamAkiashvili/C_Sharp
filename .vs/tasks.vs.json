@@ -1,0 +1,20 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Task02",
+      "appliesTo": "Task02/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-HomeWork03",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-Task02",
+      "appliesTo": "Task02/",
+      "type": "launch"
+    }
+  ]
+}

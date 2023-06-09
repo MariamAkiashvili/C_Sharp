@@ -1,0 +1,15 @@
+C:\Apps\HomeWork03\Task04\bin\Debug\net6.0\Task04.exe
+C:\Apps\HomeWork03\Task04\bin\Debug\net6.0\Task04.deps.json
+C:\Apps\HomeWork03\Task04\bin\Debug\net6.0\Task04.runtimeconfig.json
+C:\Apps\HomeWork03\Task04\bin\Debug\net6.0\Task04.dll
+C:\Apps\HomeWork03\Task04\bin\Debug\net6.0\Task04.pdb
+C:\Apps\HomeWork03\Task04\obj\Debug\net6.0\Task04.csproj.AssemblyReference.cache
+C:\Apps\HomeWork03\Task04\obj\Debug\net6.0\Task04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Apps\HomeWork03\Task04\obj\Debug\net6.0\Task04.AssemblyInfoInputs.cache
+C:\Apps\HomeWork03\Task04\obj\Debug\net6.0\Task04.AssemblyInfo.cs
+C:\Apps\HomeWork03\Task04\obj\Debug\net6.0\Task04.csproj.CoreCompileInputs.cache
+C:\Apps\HomeWork03\Task04\obj\Debug\net6.0\Task04.dll
+C:\Apps\HomeWork03\Task04\obj\Debug\net6.0\refint\Task04.dll
+C:\Apps\HomeWork03\Task04\obj\Debug\net6.0\Task04.pdb
+C:\Apps\HomeWork03\Task04\obj\Debug\net6.0\Task04.genruntimeconfig.cache
+C:\Apps\HomeWork03\Task04\obj\Debug\net6.0\ref\Task04.dll
